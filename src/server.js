@@ -1,7 +1,6 @@
 const restify = require('restify');
 const fs = require('fs');
 const path = require('path');
-const stream = require('stream');
 const Rx = require('rxjs')
 
 const filename = 'data.json'
